@@ -1,0 +1,9 @@
+Our code should store into the repository - Git repo
+
+
+Jenkins - Git Repo
+
+Jenkins - Pom.xml - TestNg.xml - Scripting - Main Functionality - Page object model
+
+TestNG can execute simultaneously  tests at a time ,
+while unitJ can only execute 1 test at a time
