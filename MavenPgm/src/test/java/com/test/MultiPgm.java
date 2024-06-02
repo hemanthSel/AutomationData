@@ -32,7 +32,7 @@ public class MultiPgm {
 	
 	
 
-	@Test(priority=1)
+	@Test
 	public void SelectDropDown() {
 		
 
@@ -49,7 +49,7 @@ public class MultiPgm {
 	}
 
 	//@Test(dependsOnGroups = "SelectDropDown")
-	@Test(priority=2 )
+	@Test
 	public void AdvanceDropDown() throws InterruptedException {
 		
 
